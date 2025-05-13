@@ -1,9 +1,10 @@
 <h1 align="center">
-  <p>Hi, I'm Hao Nguyen 👋</p>
-  
+  <p>Hi, I'm Nguyen Tan Cao Hao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></p>
+  </br>
   <img width="15%" align="center" alt="Github Image" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/linux_rounded.gif?raw=true"/>
-
-  <div><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=UI/UX+Designer;Aspiring+Full-stack+Developer;HTML+%7C+CSS+%7C+Javascript+%7C+React+%7C+Tailwind+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></div>
+  </br>
+  </br>
+  <div><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=36&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=900&lines=UI/UX+Designer;Aspiring+Full-stack+Developer;HTML+%7C+CSS+%7C+Javascript+%7C+React+%7C+Tailwind+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></div>
 </h1>
 
 ### 👨‍💻 About Me
@@ -20,7 +21,8 @@ Specialized in full-stack development, DevOps automation, and clean code practic
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,go,nodejs,django,fastapi,git,github,docker,postgres,mysql,linux,nginx,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,react,ai,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,docker,mysql,linux" />
 </p>
 
 ---
@@ -37,8 +39,8 @@ Specialized in full-stack development, DevOps automation, and clean code practic
 ### 📫 Get In Touch
 
 - GitHub: [C-HaoNguyen](https://github.com/C-HaoNguyen)  
-- Email: your.email@example.com  
-- LinkedIn / Portfolio – *(add your link here)*
+- Email: haolq0711@gmail.com  
+- LinkedIn: 
 
 ---
 
