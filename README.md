@@ -20,9 +20,9 @@
 I’m a software engineer focused on writing scalable, maintainable, and elegant code.  
 Specialized in full-stack development, DevOps automation, and clean code practices.
 
-- 🔭 Working on high-impact SaaS projects
-- ⚙️ Love system design & automation
-- 📘 Currently learning: AWS, CI/CD pipelines, distributed systems
+- 🔭 Working on high-impact SaaS projects  
+- ⚙️ Love system design & automation  
+- 📘 Currently learning: AWS, CI/CD pipelines, distributed systems  
 
 ---
 
@@ -43,18 +43,10 @@ Specialized in full-stack development, DevOps automation, and clean code practic
 
 ---
 
-### 🐍 Contributions Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/C-HaoNguyen/C-HaoNguyen/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 📫 Get In Touch
 
-- GitHub: [C-HaoNguyen](https://github.com/C-HaoNguyen)
-- Email: your.email@example.com
+- GitHub: [C-HaoNguyen](https://github.com/C-HaoNguyen)  
+- Email: your.email@example.com  
 - LinkedIn / Portfolio – *(add your link here)*
 
 ---
