@@ -4,7 +4,7 @@
   <img width="15%" align="center" alt="Github Image" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/linux_rounded.gif?raw=true"/>
   </br>
   </br>
-  <div><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=36&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=900&lines=UI/UX+Designer;Aspiring+Full-stack+Developer;HTML+%7C+CSS+%7C+Javascript+%7C+React+%7C+Tailwind+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></div>
+  <div><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=36&duration=2000&pause=1000&color=F724A9&center=true&vCenter=true&width=900&lines=UI/UX+Designer;Aspiring+Full-stack+Developer;HTML+%7C+CSS+%7C+Javascript+%7C+React+%7C+Tailwind+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></div>
 </h1>
 
 ### 👨‍💻 About Me
