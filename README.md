@@ -1,19 +1,10 @@
-<h1 align="center">Hi, I'm Hao Nguyen 👋</h1>
+<h1 align="center">
+  <p>Hi, I'm Hao Nguyen 👋</p>
+  
+  <img width="15%" align="center" alt="Github Image" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/linux_rounded.gif?raw=true"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=007ACC&center=true&vCenter=true&width=435&lines=Software+Engineer;Clean+Code+Advocate;Git+and+DevOps+Enthusiast;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/C-HaoNguyen">
-    <img src="https://img.shields.io/github/followers/C-HaoNguyen?label=Follow&style=social" alt="GitHub followers"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue" />
-  </a>
-</p>
-
----
+  <div><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=UI/UX+Designer;Aspiring+Full-stack+Developer;HTML+%7C+CSS+%7C+Javascript+%7C+React+%7C+Tailwind+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></div>
+</h1>
 
 ### 👨‍💻 About Me
 
