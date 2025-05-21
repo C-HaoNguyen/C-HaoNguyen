@@ -41,7 +41,6 @@ Specialized in full-stack development, DevOps automation, and clean code practic
 
 - GitHub: [C-HaoNguyen](https://github.com/C-HaoNguyen)  
 - Email: haolq0711@gmail.com  
-- LinkedIn: 
 
 ---
 
