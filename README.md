@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About Me
 
-I’m a software engineer focused on writing scalable, maintainable, and elegant code.  
-Specialized in full-stack development, DevOps automation, and clean code practices.
+I am a web developer specializing in front-end development, with a goal of becoming a full-stack engineer.  
+I have a strong interest in full-stack development, DevOps automation, and clean code practices.
 
-- 🔭 Working on high-impact SaaS projects  
+- 🔭 Working on high-impact SaaS projects
 - ⚙️ Love system design & automation  
 - 📘 Currently learning: AWS, CI/CD pipelines, distributed systems  
 
