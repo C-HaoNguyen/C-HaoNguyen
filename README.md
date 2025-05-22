@@ -53,10 +53,6 @@ I have a strong interest in full-stack development, DevOps automation, and clean
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-Contact me:
-- Email: haolq0711@gmail.com
-- Facebook: [Nguyễn Tấn Cao Hào](https://www.facebook.com/iamcaohao)  
-- Instagram: [Cao Hào](https://www.instagram.com/_iamchao.711_/)
 
 ---
 
