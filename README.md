@@ -49,7 +49,7 @@ I have a strong interest in full-stack development, DevOps automation, and clean
   <a href="https://www.instagram.com/_iamchao.711_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/hao-nguyen-tan-cao-a5783b364/?trk=opento_sprofile_goalscard" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
