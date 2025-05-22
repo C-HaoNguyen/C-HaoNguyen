@@ -37,10 +37,26 @@ I have a strong interest in full-stack development, DevOps automation, and clean
 
 ---
 
-### 📫 Get In Touch
+### 📫 Contact Me
 
-- GitHub: [C-HaoNguyen](https://github.com/C-HaoNguyen)  
-- Email: haolq0711@gmail.com  
+<div align="center"> 
+  <a href="mailto:haolq0711@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.facebook.com/iamcaohao/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_iamchao.711_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+Contact me:
+- Email: haolq0711@gmail.com
+- Facebook: [Nguyễn Tấn Cao Hào](https://www.facebook.com/iamcaohao)  
+- Instagram: [Cao Hào](https://www.instagram.com/_iamchao.711_/)
 
 ---
 
