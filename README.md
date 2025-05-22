@@ -31,8 +31,8 @@ Specialized in full-stack development, DevOps automation, and clean code practic
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C-HaoNguyen&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-HaoNguyen&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=C-HaoNguyen&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-HaoNguyen&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
