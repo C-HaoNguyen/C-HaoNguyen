@@ -13,9 +13,9 @@
 I am a web developer specializing in front-end development, with a goal of becoming a full-stack engineer.  
 I have a strong interest in full-stack development, DevOps automation, and clean code practices.
 
-- 🔭 Working on high-impact SaaS projects
-- ⚙️ Love system design & automation  
-- 📘 Currently learning: Typescript, React, Tailwind.
+- 🔭 Working on Tourist Guide project.
+- ⚙️ Love system design & website design.
+- 📘 Currently learning: Typescript, React, Tailwind and more,...
 
 ---
 
