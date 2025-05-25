@@ -5,7 +5,7 @@
   <img width="15%" align="center" alt="Github Image" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/linux_rounded.gif?raw=true"/>
   </br>
   </br>
-  <div><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=36&duration=4000&pause=3000&color=2E72E3&center=true&vCenter=true&width=900&lines=UI/UX+Designer;Aspiring+Full-stack+Developer;HTML+%7C+CSS+%7C+Javascript+%7C+React+%7C+Tailwind+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></div>
+  <div><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=36&duration=4000&pause=3000&color=2E72E3&center=true&vCenter=true&width=900&lines=UI/UX+Designer+%7C+Front-end+Developer;Aspiring+Full-stack+Developer;HTML+%7C+CSS+%7C+Javascript+%7C+React+%7C+Tailwind+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></div>
 </h1>
 
 ### 👨‍💻 About Me
@@ -15,7 +15,7 @@ I have a strong interest in full-stack development, DevOps automation, and clean
 
 - 🔭 Working on high-impact SaaS projects
 - ⚙️ Love system design & automation  
-- 📘 Currently learning: AWS, CI/CD pipelines, distributed systems  
+- 📘 Currently learning: Typescript, React, Tailwind.
 
 ---
 
