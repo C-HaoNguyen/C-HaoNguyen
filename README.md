@@ -56,4 +56,4 @@ I have a strong interest in full-stack development, DevOps automation, and clean
 
 ---
 
-> 💬 _"The best code is no code at all." — Jeff Atwood_
+> <h1>💬 _"The best code is no code at all." — Jeff Atwood_</h1>
