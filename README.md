@@ -46,9 +46,6 @@ I have a strong interest in full-stack development, DevOps automation, and clean
     <a href="https://www.postgresql.org/" target="_blank">  
       <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>  
     </a>
-</div>
-
-<div align="center">  
     <a href="https://www.postman.com/" target="_blank">  
       <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>  
     </a>
@@ -68,11 +65,6 @@ I have a strong interest in full-stack development, DevOps automation, and clean
       <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>  
     </a>
 </div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,react,ai,figma,tailwind" />
-  <img src="https://skillicons.dev/icons?i=postman,git,github,docker,mysql,linux" />
-</p>
 
 ---
 
