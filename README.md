@@ -21,6 +21,54 @@ I have a strong interest in full-stack development, DevOps automation, and clean
 
 ### 🧰 Tech Stack
 
+<div align="center">  
+    <a href="https://www.cplusplus.com/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>  
+    </a>
+    <a href="https://html.spec.whatwg.org/multipage/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>  
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>  
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>  
+    </a>
+    <a href="https://react.dev/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=react" alt="React"/>  
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>  
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>  
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>  
+    </a>
+</div>
+
+<div align="center">  
+    <a href="https://www.postman.com/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>  
+    </a>
+    <a href="https://git-scm.com/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=git" alt="Git"/>  
+    </a>  
+    <a href="https://github.com/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>  
+    </a>  
+    <a href="https://www.linux.org/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>  
+    </a>
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator"/>  
+    </a>
+    <a href="https://www.figma.com/" target="_blank">  
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>  
+    </a>
+</div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,react,ai,figma,tailwind" />
   <img src="https://skillicons.dev/icons?i=postman,git,github,docker,mysql,linux" />
@@ -30,6 +78,7 @@ I have a strong interest in full-stack development, DevOps automation, and clean
 
 ### 📊 GitHub Stats
 
+di
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C-HaoNguyen&show_icons=true&theme=vue&hide_title=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-HaoNguyen&theme=vue" height="150" />
