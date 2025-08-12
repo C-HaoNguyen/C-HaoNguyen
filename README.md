@@ -70,7 +70,6 @@ I have a strong interest in full-stack development, DevOps automation, and clean
 
 ### 📊 GitHub Stats
 
-di
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C-HaoNguyen&show_icons=true&theme=vue&hide_title=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-HaoNguyen&theme=vue" height="150" />
